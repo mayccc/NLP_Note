@@ -1,0 +1,6 @@
+1. Download liblinear
+wget https://www.csie.ntu.edu.tw/~cjlin/liblinear/liblinear-2.11.zip
+unzip liblinear-2.11.zip
+rm liblinear-2.11.zip
+cd liblinear-2.11
+make
