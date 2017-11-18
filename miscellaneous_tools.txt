@@ -5,3 +5,7 @@ Download Python 3.6.3
 ## PyCharm
 Download url: https://www.jetbrains.com/pycharm/
 Download Community version
+
+## LaTex
+Use the TeX Live distribution
+Download url: http://www.tug.org/texlive/
