@@ -1,3 +1,7 @@
 ##Python
 Download url: https://www.python.org/downloads/
 Download Python 3.6.3
+
+## PyCharm
+Download url: https://www.jetbrains.com/pycharm/
+Download Community version
