@@ -15,3 +15,7 @@ Download url: https://git-for-windows.github.io/
 
 ## Excel
 Account: xdai6399@uni.sydney.edu.au
+
+
+## Jupyter
+pip install jupyter
