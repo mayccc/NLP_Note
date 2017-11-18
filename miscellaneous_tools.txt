@@ -9,3 +9,6 @@ Download Community version
 ## LaTex
 Use the TeX Live distribution
 Download url: http://www.tug.org/texlive/
+
+## Git
+Download url: https://git-for-windows.github.io/
