@@ -19,3 +19,9 @@ Account: xdai6399@uni.sydney.edu.au
 
 ## Jupyter
 pip install jupyter
+
+## Bracewell
+sinteractive -n 1 -t 12:00:0 -m 8gb -g gpu:1
+module load python/3.6.1
+module load cuda
+module load cudnn/v5.1
