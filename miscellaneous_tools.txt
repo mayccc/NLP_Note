@@ -1,0 +1,27 @@
+##Python
+Download url: https://www.python.org/downloads/
+Download Python 3.6.3
+
+## PyCharm
+Download url: https://www.jetbrains.com/pycharm/
+Download Community version
+
+## LaTex
+Use the TeX Live distribution
+Download url: http://www.tug.org/texlive/
+
+## Git
+Download url: https://git-for-windows.github.io/
+
+## Excel
+Account: xdai6399@uni.sydney.edu.au
+
+
+## Jupyter
+pip install jupyter
+
+## Bracewell
+sinteractive -n 1 -t 12:00:0 -m 8gb -g gpu:1
+module load python/3.6.1
+module load cuda
+module load cudnn/v5.1
