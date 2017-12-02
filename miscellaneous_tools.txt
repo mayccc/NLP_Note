@@ -16,7 +16,6 @@ Download url: https://git-for-windows.github.io/
 ## Excel
 Account: xdai6399@uni.sydney.edu.au
 
-
 ## Jupyter
 pip install jupyter
 ### Ubuntu
@@ -29,3 +28,7 @@ sinteractive -n 1 -t 12:00:0 -m 8gb -g gpu:1
 module load python/3.6.1
 module load cuda
 module load cudnn/v5.1
+
+## megam (MEGA Model Optimization Package)
+Download url: http://www.umiacs.umd.edu/~hal/megam/
+megam_i686.opt.gz
