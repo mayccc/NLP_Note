@@ -34,3 +34,6 @@ Download url: http://www.umiacs.umd.edu/~hal/megam/ # Official, but does not wor
 megam_i686.opt.gz
 Download url: http://thinknook.com/wp-content/uploads/2012/11/MEGAM.zip 
 megam-64
+
+## Run cmd as administrator
+C:\Windows\System32\cmd.exe
