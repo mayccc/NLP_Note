@@ -24,6 +24,7 @@ sudo apt-get -y install ipython ipython-notebook
 sudo -H pip3 install jupyter
 
 ## Bracewell
+ssh -X bracewell.hpc.csiro.au
 sinteractive -n 1 -t 12:00:0 -m 8gb -g gpu:1
 module load python/3.6.1
 module load cuda
